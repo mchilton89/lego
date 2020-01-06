@@ -24,7 +24,8 @@ header h1 {
 header img {
 	border-radius: 150px;
 	width: 300px;
-	border: 20px solid #483a94;
+	border: 20px 
+	solid #483a94;
 }
 
 main{
