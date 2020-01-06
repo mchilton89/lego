@@ -1,3 +1,70 @@
 body {
-	background-color: yellow;
+	margin: 0;
+	font-family: helvetica;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{ 
+background-color: Green;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+h1,h2 {
+	font-family: 'Shadows Into Light', cursive;
+}
+
+header h1 {
+	color: white;
+	font-size: 50px;
+}
+
+header img {
+	border-radius: 150px;
+	width: 300px;
+	border: 20px solid #483a94;
+}
+
+
+main{
+	max-width: 2000px;
+	text-align: center;
+	margin: 0 auto; 
+	padding: 0 20px;
+	background-color: grey;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2 {
+	font-size: 30px;
+	color: #DF173B;
+	margin: 40px 0 10px;
+}
+
+p{
+	color: yellow;
+}
+
+a{
+	color: purple;
+}
+a:hover{
+	color:black;
+	background-color: white;
+}
+
+footer{
+	background-color: Green;
+	text-align: center;
+	padding: 50px;
+}
+
+p.caption{
+	font-style:italic;
+	margin: o;
 }
